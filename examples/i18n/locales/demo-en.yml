@@ -9,14 +9,14 @@ tagline: A generic multi-language link page.
 
 links:
   - link:
-      icon: "fa-solid fa-link"
+      icon: "fa-brands fa-youtube"
       text: "Ma Chaine Youtube"
       url: "https://www.youtube.com/@Fran%C3%A7ais.Avec.Shadyy"
       alt: "Lien Chaine Youtube"
       title: "Ma Chaine Youtube"
       target: "_blank"
    -Link:
-      icon: "fa-solid fa-link"
+      icon: "fa-brands fa-facebook"
       text: "Ma Chaine Facebook"
       url: "https://www.facebook.com/profile.php?id=100090314114705"
       alt: "Lien Chaine Facebook"
