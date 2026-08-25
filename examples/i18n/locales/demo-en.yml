@@ -1,6 +1,6 @@
-lang: en
-og_locale: en_US
-locale_label: English
+lang: fr
+og_locale: FR_FR
+locale_label: Français
 
 title: Example Link Page
 avatar: "./images/profile.jpeg"
@@ -10,10 +10,17 @@ tagline: A generic multi-language link page.
 links:
   - link:
       icon: "fa-solid fa-link"
-      text: "Example link"
-      url: "https://example.com/"
-      alt: "Example link"
-      title: "Example link"
+      text: "Ma Chaine Youtube"
+      url: "https://www.youtube.com/@Fran%C3%A7ais.Avec.Shadyy"
+      alt: "Lien Chaine Youtube"
+      title: "Ma Chaine Youtube"
+      target: "_blank"
+   -Link:
+      icon: "fa-solid fa-link"
+      text: "Ma Chaine Facebook"
+      url: "https://www.facebook.com/profile.php?id=100090314114705"
+      alt: "Lien Chaine Facebook"
+      title: "Ma Chaine Facebook"
       target: "_blank"
 
 socials: []
